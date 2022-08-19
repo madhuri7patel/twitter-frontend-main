@@ -1,0 +1,42 @@
+.inputbox{
+    display: inline-block;
+    vertical-align: top;
+    width:50%;
+    height:100%;
+    margin-left:10%;
+    margin-top: -35px;
+    font-size: 20px;
+    border: none;
+}
+
+.image-upload>input {
+  display: none;
+}
+
+
+
+.postButton{
+  margin-left: 25%;
+  width:20%;
+  background-color:#1DA1F2;
+  border:none;
+  color:#FFFFFF;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 20px;
+
+}
+
+img.Image:hover{
+cursor: pointer;
+background-color: #c9e9f6;
+border-radius: 10px;
+}
+
+.boxTweet{
+  margin-left: 16%;
+  width: 47.9%;
+  border-right: 2px solid #EFF1F1;
+  margin-top: -26%;
+}
+

@@ -1,0 +1,52 @@
+.happenBox{
+    width:80%;
+    height:300px;
+    margin-left:6%;
+    border-radius: 25px;
+    margin-top: 2%;
+}
+
+.alert>img{
+    width:25%;
+    height:70px;
+    border-radius: 9%;
+    margin-bottom: 4%;
+}
+
+.alert{
+    display: flex;
+    justify-content:space-between;
+    margin-right: 4%;
+}
+.show{
+    margin-left: 3%;
+}
+
+.show:hover{
+    cursor: pointer;
+    background-color:#EFF1F1;
+}
+
+
+
+h1{
+    font-size:20px;
+    font-weight:800;
+    margin-top: 2%;
+}
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.author{
+    color: #676b6d;
+    font-size: 13px;
+    font-weight:400;
+}
+
+.title{
+    font-size:13px;
+    font-weight:600;
+    line-height: 18px;
+}

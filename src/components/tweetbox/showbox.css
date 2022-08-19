@@ -1,0 +1,76 @@
+.name{
+    font-weight:700;
+    font-size: 20px;
+    margin-top: 6px;
+}
+
+.postdiv{
+    margin-top:0%;
+    border-bottom: 2px solid #EFF1F1;
+    margin-left: 16%;
+    width: 47.9%;
+    border-right: 2px solid #EFF1F1;
+}
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.postdiv:hover{
+    cursor: pointer;
+    background-color: #F7F7F7;
+}
+
+.postimg{
+    width:80%;
+    margin-left:11%;
+    height: 70%;
+    border-radius: 15px;
+    border: 2px solid #F7F7F7;
+}
+
+.tweet{
+    margin-left:12%;
+    font-size: 15px;
+    font-weight: 400;
+    line-height:20px;
+    color: #0f1419;
+}
+
+.post__footer {
+  display: flex;
+  gap: 17%;
+  margin-top: 10px;
+  margin-bottom: 3%;
+}
+
+.a:hover{
+    cursor: pointer;
+    color:#1D9BF0;
+}
+
+.b:hover {
+    cursor: pointer;
+    color:#37C897;
+
+}
+
+.c:hover {
+    cursor: pointer;
+    color:#cc5d93;
+}
+
+.likeIcon {
+    margin-left: 6%;
+    margin-top: 1px;
+    font-size: 17px;
+}
+
+.IconSpan{
+    display:flex;
+}
+
+.IconSpan:hover {
+    cursor: pointer;
+    color:#cc5d93;
+}
