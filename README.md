@@ -6,7 +6,7 @@
 
 ## Hosted Platform
 
-https://twitter-cloned12.netlify.app/
+https://twitter-rho-inky.vercel.app/
 
 ## Contributors
 
@@ -21,7 +21,7 @@ https://twitter-cloned12.netlify.app/
 > &ensp; <img src = "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/064fc70f-5df3-4333-b9d4-f6abe2f946de/react-wp-app8.png" width = "100" height ="100">
 
 ## Backend Repository
-https://github.com/gurdeep7/twitter-backend
+https://github.com/madhuri7patel/twitter-frontend-main
 
 ## Snapshot from the Built Project
 
