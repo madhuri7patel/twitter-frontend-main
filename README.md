@@ -10,11 +10,7 @@ https://twitter-cloned12.netlify.app/
 
 ## Contributors
 
-1. Gurdeep Singh
-2. Sushan Salavi
-3. Intezar Khan
-4. Abhishek Singh
-5. Gaddam Jaswanth
+1.Madhuri Patel
 
 
 ## Technologies Used
